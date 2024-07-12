@@ -1,6 +1,6 @@
 import os
 from pydub import AudioSegment
-from .transcribe import (transcribe)
+from transcribe import (transcribe)
 
 # segment according to speaker
 def wav_file_segmentation(file_name, segments, language, modelSize, whisper_type, quantization):

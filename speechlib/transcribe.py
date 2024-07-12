@@ -1,5 +1,5 @@
 import torch
-from .whisper_sinhala import (whisper_sinhala)
+from whisper_sinhala import (whisper_sinhala)
 from faster_whisper import WhisperModel
 import whisper
 
