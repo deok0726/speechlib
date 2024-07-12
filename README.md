@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="speechlib.png" />
-</p>
-
-<p align="center">
     <a href="./LICENSE"><img src="https://img.shields.io/github/license/Navodplayer1/speechlib"></a>
     <a href="https://github.com/Navodplayer1/speechlib/releases"><img src="https://img.shields.io/github/v/release/Navodplayer1/speechlib?color=ffa"></a>
     <a href="support os"><img src="https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-pink.svg"></a>
@@ -114,14 +110,6 @@ start: starting time of speech in seconds
 end: ending time of speech in seconds  
 text: transcribed text for speech during start and end  
 speaker: speaker of the text 
-
-#### voices_folder structure:  
-
-![voices_folder_structure](voices_folder_structure1.png)
-
-#### Transcription:  
-
-![transcription](transcript.png)
 
 supported language codes:  
 
